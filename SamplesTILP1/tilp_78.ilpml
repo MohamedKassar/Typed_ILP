@@ -1,0 +1,2 @@
+let x : bool = true in
+	let y : bool = x in y

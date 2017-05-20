@@ -1,0 +1,4 @@
+let x : bool = false in (
+	print (x + " foo")
+	x + " foo"		
+	)

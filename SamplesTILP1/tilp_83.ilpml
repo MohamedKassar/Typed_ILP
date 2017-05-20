@@ -1,0 +1,1 @@
+let x : float = 5.5 in print(x)
