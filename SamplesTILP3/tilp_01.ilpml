@@ -1,0 +1,1 @@
+lambda (x : int, y: float) : string ((x + " ") + y)

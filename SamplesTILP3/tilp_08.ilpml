@@ -1,0 +1,2 @@
+x : (bool * float) -> string = lambda (x : bool, y: float) : string (if x then y + "" else "false")
+x(true, 5.5)

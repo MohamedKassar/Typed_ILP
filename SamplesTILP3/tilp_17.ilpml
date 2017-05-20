@@ -1,0 +1,1 @@
+function fun() : int (5 + fun()) and function fun2() : float 6.4 in fun() + fun2()

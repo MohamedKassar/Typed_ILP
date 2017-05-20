@@ -1,0 +1,1 @@
+lambda (x : bool, y: float) : string (if x then y + "" else "false")
