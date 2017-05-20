@@ -1,0 +1,7 @@
+function fun1 (x : int, y : int) : int
+	if(x < 0) then y else fun1(x-y , y-x)
+
+x : int = 5
+y : int = 5
+
+fun1(x, y)

@@ -1,0 +1,12 @@
+(x : int = 5; y : float = x)
+(z : string = "foo" + y; t: bool = x == y)
+print_int : (int) -> unit = print;
+print_float : (float) -> unit = print;
+print_string : (string) -> unit = print;
+print_bool : (bool) -> unit = print;
+
+print_int(x)
+print_float(t) /*error here; t is not a float*/
+print_float(y)
+print_string(z)
+print_bool(t)

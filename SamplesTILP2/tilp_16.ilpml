@@ -1,0 +1,3 @@
+x : int = 5
+y : float = x
+z : float = y + 1 

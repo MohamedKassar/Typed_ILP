@@ -1,0 +1,3 @@
+function fun1 (x : int, y : float) : bool
+	x < y
+fun1

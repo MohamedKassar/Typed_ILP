@@ -1,0 +1,4 @@
+let x : bool = true in 
+	let y : bool = !x in 
+		while x^y do x = x & y
+

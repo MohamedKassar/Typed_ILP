@@ -1,0 +1,2 @@
+let x : (string)->unit = print and y : string = "foo" and b : bool = true
+	 in while b do x(y)

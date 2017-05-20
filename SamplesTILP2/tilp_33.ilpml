@@ -1,0 +1,4 @@
+function fun1 (x : int, y : float) : bool
+	x < y
+x : int = 5
+fun1(x, x)

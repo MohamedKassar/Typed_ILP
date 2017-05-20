@@ -1,0 +1,11 @@
+function fun1 (x : int, y : float) : bool
+	x < y
+
+function fun2 (x : int, y : float) : bool
+	x == y
+
+x : int = 5
+y : float = 5.0
+fun1(x, y)
+fun1 = fun2
+fun1(x, y)

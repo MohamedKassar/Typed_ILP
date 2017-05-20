@@ -1,0 +1,2 @@
+let x : int = 8 in
+    while x do (let x : int = 5 in (x; print("foo");))

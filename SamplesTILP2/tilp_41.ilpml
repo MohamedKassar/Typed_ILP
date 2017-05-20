@@ -1,0 +1,12 @@
+function fun1 (x : int, y : int) : float
+	x + y + 0.5
+
+function fun2 (x : float, y : float) : int
+	5
+
+x : int = 5
+y : int = 5
+
+fun1(x, y)
+fun1 = fun2 /*raffinement ! */
+fun1(x, y)

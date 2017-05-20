@@ -1,0 +1,5 @@
+(x : int = 5; y : float = x)
+(z : float = y; t: float = z + 0.5)
+str : string = let x : string = "foo" in
+		(f : (int) -> unit = print; t + x)
+f(x)

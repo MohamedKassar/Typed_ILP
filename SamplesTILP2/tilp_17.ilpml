@@ -1,0 +1,4 @@
+x = 2
+x : int = 5
+y : float = x
+z : float = z + 1 
