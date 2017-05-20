@@ -1,0 +1,2 @@
+let x : float = 5.5 and x : int = 5
+	in x

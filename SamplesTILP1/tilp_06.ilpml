@@ -1,0 +1,3 @@
+/*test negatif*/
+if true
+then true

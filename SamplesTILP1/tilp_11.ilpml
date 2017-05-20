@@ -1,0 +1,2 @@
+/*test negatif*/
+let x : int = 5 and y : bool = true in x + y
