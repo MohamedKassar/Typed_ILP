@@ -1,0 +1,8 @@
+function fun1 (x : int, y : int) : int
+	(x : int = x;
+	x + y) 
+
+function fun2 (x : (int * int) -> int, y : (int) -> unit) : unit
+	y(x(2, 5) + x);/*error here we use local x not global*/
+
+2

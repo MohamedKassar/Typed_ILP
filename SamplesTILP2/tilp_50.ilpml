@@ -1,0 +1,4 @@
+function print_bis () : (string) -> unit
+	print
+
+print_bis()("foo")

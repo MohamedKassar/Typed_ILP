@@ -1,0 +1,5 @@
+function fun1 (x : int, y : string) : string
+	x + y
+	
+fun1(2)
+

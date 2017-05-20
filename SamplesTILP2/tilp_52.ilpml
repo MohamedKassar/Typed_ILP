@@ -1,0 +1,7 @@
+function fun1 (x : int) : string
+	x + "foo"
+
+function fun2 (x : (string) -> string, y : (string) -> unit) : unit
+	y(x(2));
+
+fun2(fun1, print)

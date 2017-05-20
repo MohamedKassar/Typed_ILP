@@ -1,0 +1,8 @@
+function fun1 (x : float, y : int) : float
+	(x : int = y;
+	z : (int) -> unit = print
+	z(x)/*error here we use local x not global*/
+	x + y) 
+
+
+2

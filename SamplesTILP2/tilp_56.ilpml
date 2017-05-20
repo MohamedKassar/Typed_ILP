@@ -1,0 +1,10 @@
+function fun1 (x : int, y : int) : int
+	(x : float = x;
+	z : (int) -> unit = print
+	z(x)
+	x + y) 
+
+function fun2 (x : (int * int) -> int, y : (int) -> unit) : unit
+	y(x(2, 5));
+
+x
