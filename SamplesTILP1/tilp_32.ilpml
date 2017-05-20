@@ -1,0 +1,3 @@
+let x : bool = true and y : bool = false in 
+	let z : bool = x ^ y in
+		z ^ x & y

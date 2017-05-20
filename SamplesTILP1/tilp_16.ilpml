@@ -1,0 +1,1 @@
+let x:float =4.5 and y:float=0.4 in ( x == y ) 

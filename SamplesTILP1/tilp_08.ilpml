@@ -1,0 +1,1 @@
+let x: bool = true in if x then print("foo") 

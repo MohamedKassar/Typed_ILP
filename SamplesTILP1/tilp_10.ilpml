@@ -1,0 +1,2 @@
+let x : float = 0.0 and y : float = x in y
+

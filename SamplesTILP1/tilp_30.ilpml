@@ -1,0 +1,1 @@
+let x : bool = true and y : bool = false in x^y

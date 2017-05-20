@@ -1,0 +1,1 @@
+let x : bool = true and y : int = 4 in x^y
